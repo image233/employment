@@ -1,0 +1,26 @@
+{
+	"errcode":0,
+	"errmsg":"成功",
+	"list":[
+		{
+			"name":"/static/frontPage/imgs/img1.jpg",
+			"url":"/frontPage/recruitmentBrochureDetailPage"
+		},
+		{
+			"name":"/static/frontPage/imgs/img2.jpg",
+			"url":"/frontPage/companyDetailPage"
+		},
+		{
+			"name":"/static/frontPage/imgs/img3.jpg",
+			"url":"/frontPage/recruitmentBrochureDetailPage"
+		},
+		{
+			"name":"/static/frontPage/imgs/img4.jpg",
+			"url":"/frontPage/companyDetailPage"
+		},
+		{
+			"name":"/static/frontPage/imgs/img5.jpg",
+			"url":"/frontPage/recruitmentDetailPage"
+		}
+	]
+}

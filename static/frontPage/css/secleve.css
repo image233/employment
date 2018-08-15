@@ -1,0 +1,143 @@
+ul{
+	padding:0px;
+	list-style: none;
+}
+input:focus{outline:none;}
+.clear {
+    clear:both; 
+    height: 0; 
+    line-height: 0; 
+    font-size: 0;
+}
+
+.brav{
+	width: 100%;
+	height: 100%;
+	background-color: #f5f5f5;
+	padding-top:1px;
+}
+.bravmain{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #f5f5f5;
+	margin-top:10px;
+}
+.search{
+	height: 62px;
+	width: 100%;
+	margin-bottom: 10px;
+	background-color: #fff;
+}
+.gj{
+	width: 440px;
+	margin:10px;
+}
+.gj,.sj{
+	height: 40px;
+	float: left;
+	text-indent: 10px;
+	border:none;
+	background-color: #f3f3f3;
+}
+.sj{
+	width: 356px;
+	margin:10px 0;
+}
+.se{
+	width: 33px;
+	height: 40px;
+}
+.search a{
+	margin:10px;
+	width:68px;
+	display:inline-block;
+	height:40px;
+}
+.search span{
+	float: right;
+	line-height: 40px;
+	color: #22549b;
+	font-weight: bold;
+}
+.info{
+	font-size:16px;
+	background-color: #fff;
+}
+.zk{
+	width:1200px;
+	height: 46px;
+	line-height:46px;
+	border-bottom: 1px solid #2577e3;
+}
+.zk p{
+	display: block;
+	width: 164px;
+	text-align: center;
+	letter-spacing: 1px;
+	color:#fff;
+	background-color:#2577e3;
+}
+.xx{
+	font-size: 16px;
+}
+.xx li{
+	width: 1200px;
+	padding: 10px 0px;
+	border-bottom:1px solid #f3f3f3;
+}
+.xx li:hover{
+	background-color:#deebfc;
+}
+.triangle-rihgt {
+	display:block;
+	float: left;
+	height:0;
+	width:0;
+	border:4px solid #2576e1;
+	border-color:transparent  transparent transparent #2576e1;
+	margin:10px 10px 0 30px;
+}
+.xx a{
+	color: #2378e3;
+}
+.xx time{
+	float: right;
+	color: #2378e3;
+	margin-right:30px;
+}
+.pages{
+	height:60px;
+	width: 380px;
+	margin: 10px auto;
+	text-align: center;
+	font-size: 14px;
+	color: #333331;
+}
+.pages span{
+	float: left;
+}
+.pages ul{
+	height:60px;
+	/*margin: 0px auto;*/
+}
+.pages li{
+	float: left;
+	margin-right: 6px;
+	border:1px solid #dcdcdc;
+}
+.pages a {
+	width: 100%;
+	padding:6px 4px;
+	height: 100%;
+	color: #333331;
+}
+.pages li:hover{
+	color: #333331;
+}
+.here{
+	color: #fff;
+	background-color: #2677e3;
+}
+.here a {
+	color: #fff;
+}

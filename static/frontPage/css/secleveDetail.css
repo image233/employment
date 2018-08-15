@@ -1,0 +1,83 @@
+*{
+	padding: 0;
+	margin:0;
+	font-family: "微软雅黑";
+	text-decoration: none;
+}
+ul{
+	padding:0px;
+	list-style: none;
+}
+input:focus{outline:none;}
+.clear {
+    clear:both; 
+    height: 0; 
+    line-height: 0; 
+    font-size: 0;
+}
+
+.brav{
+	width: 100%;
+	height: 100%;
+	background-color: #f5f5f5;
+	padding-top:1px;
+}
+.bravmain{
+	width: 1200px;
+	margin: 0 auto;
+	background-color: #f5f5f5;
+	padding-top:10px;
+}
+
+.info{
+	font-size:16px;
+	background-color: #fff;
+	color: #555;
+	padding-bottom: 60px;
+	margin-bottom:20px;
+}
+.info h2{
+	padding-top: 50px;
+	text-align: center;
+}
+.infotime{
+	height: 40px;
+	width: 1140px;
+	margin: 0 auto;
+	border-bottom:1px solid #cdcdcd;
+}
+.infotime p{
+	font-size: 16px;
+	line-height:50px;
+}
+.moreinfo{
+	width: 1140px;
+	margin: 0 auto;
+}
+.titleinfo{
+	text-align: center;
+	padding:30px;
+}
+.titleinfo{
+	text-align: center;
+	padding:30px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.ss{
+	padding-bottom: 10px;
+}
+.zk{
+	width:1200px;
+	height: 46px;
+	line-height:46px;
+	border-bottom: 1px solid #2577e3;
+}
+.zk p{
+	display: block;
+	width: 164px;
+	text-align: center;
+	letter-spacing: 1px;
+	color:#fff;
+	background-color:#2577e3;
+}
